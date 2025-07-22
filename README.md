@@ -1,7 +1,8 @@
-<!-- =================== Futuristic Header =================== -->
+# 👋 Hi, I'm **Tejas Jundre**
+
+<!-- Futuristic Header -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5D3FD3,100:0E6BA8&height=200&section=header&text=Tejas%20Jundre&fontSize=45&animation=fadeIn&fontColor=ffffff&fontAlignY=40)
 
-<!-- =================== Typing Effect =================== -->
 <p align="center">
   <a href="https://github.com/tejasjundre">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00F5FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+|+PHP+•+JS+•+MySQL+•+WordPress;Open+Source+Contributor;Futuristic+Tech+Learner" alt="Typing intro" />
@@ -10,19 +11,10 @@
 
 ---
 
-# 👋 Hi, I'm **Tejas Jundre**
-**Full Stack Developer | PHP • MySQL • JavaScript | WordPress & Open-Source Enthusiast**
-
----
-
-<!-- Gradient Divider -->
-![Divider](https://user-images.githubusercontent.com/74038190/216646379-32a68a9b-975d-4a4a-bb0e-1623a6f06a38.gif)
-
 ## 🚀 About Me
 - 🎓 Final-year **B.E. IT** student (DY Patil COE, Pune - 2026).  
 - 💻 Build secure, scalable web apps in **PHP, MySQL, JavaScript**.  
 - 🌱 Learning **WordPress development** (plugins, themes, hooks, REST API, Gutenberg).  
-- 🧪 Love experimenting with **modern, futuristic web tech**.  
 - 🏆 Goal: Build impactful, open, community-driven software.
 
 ---
@@ -120,6 +112,13 @@
 
 ---
 
+## 🔄 Last Updated
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/tejasjundre/tejasjundre?style=for-the-badge&logo=github&color=0E6BA8" alt="Last Commit"/>
+</p>
+
+---
+
 ## 🤝 Connect With Me
 <p align="center">
   <a href="https://github.com/tejasjundre" target="_blank">
@@ -139,5 +138,5 @@
 
 ---
 
-<!-- =================== Futuristic Footer =================== -->
+<!-- Futuristic Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5D3FD3,100:0E6BA8&height=120&section=footer)
