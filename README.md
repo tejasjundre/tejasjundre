@@ -8,7 +8,7 @@
 - 🎓 Final-year **B.E. Information Technology student (DY Patil COE, Pune - 2026)**.
 - 💻 Strong in **PHP, MySQL, JavaScript** and building secure, scalable web apps.
 - 🌱 Currently learning **WordPress (themes & plugins)** and contributing to **open-source projects**.
-- 🏆 Goal: Join **rtCamp or a top product-based company** as a web developer.
+
 
 ---
 
