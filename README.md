@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0E6BA8,100:5D3FD3&height=200&section=header&text=Tejas%20Jundre&fontSize=50&fontColor=ffffff)
+
 # Hi there, I'm Tejas Jundre! 👋
 
 **Full Stack Developer | PHP • MySQL • JavaScript | Open-Source Enthusiast**
@@ -35,7 +37,24 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasjundre&layout=compact&theme=radical)
 
 ---
+## 🚀 Languages & Tools
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,react,nodejs,mysql,mongodb,wordpress,cpp,java,python&perline=6" alt="Tech Stack" />
+</p>
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/tejas-jundre)
-- [GitHub](https://github.com/tejasjundre)
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://github.com/tejasjundre" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tejas-jundre" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jundretejas302inc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
