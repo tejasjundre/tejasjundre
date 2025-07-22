@@ -1,4 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0E6BA8,100:5D3FD3&height=200&section=header&text=Tejas%20Jundre&fontSize=50&fontColor=ffffff)
+<!-- Futuristic Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tejas%20Jundre&fontSize=45&animation=fadeIn&fontColor=fff&fontAlignY=40)
+
+<!-- Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00F5FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+|+PHP+•+JS+•+MySQL+•+WordPress;Open+Source+Enthusiast;Passionate+about+AI+%26+Futuristic+Web+Technologies)](https://git.io/typing-svg)
+
 
 # Hi there, I'm Tejas Jundre! 👋
 
@@ -57,4 +62,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
+<!-- Futuristic Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
