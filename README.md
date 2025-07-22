@@ -58,14 +58,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejasjundre&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -110,14 +102,7 @@
 ## 🐍 Contribution Snake
 ![Snake animation](https://github.com/tejasjundre/tejasjundre/blob/output/github-contribution-grid-snake.svg)
 
----
-
-## 🔄 Last Updated
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/tejasjundre/tejasjundre?style=for-the-badge&logo=github&color=0E6BA8" alt="Last Commit"/>
-</p>
-
----
+--
 
 ## 🤝 Connect With Me
 <p align="center">
