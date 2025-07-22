@@ -100,6 +100,7 @@
 ---
 
 ## 🐍 Contribution Snake
+
 ![Snake animation](https://github.com/tejasjundre/tejasjundre/blob/output/github-contribution-grid-snake.svg)
 
 --
