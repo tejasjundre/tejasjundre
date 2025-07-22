@@ -1,14 +1,14 @@
 # Hi there, I'm Tejas Jundre! 👋
 
-**Full Stack Developer | PHP • MySQL • JavaScript | Aspiring WordPress Developer**
+**Full Stack Developer | PHP • MySQL • JavaScript | Open-Source Enthusiast**
 
 ---
 
 ## 🚀 About Me
 - 🎓 Final-year **B.E. Information Technology student (DY Patil COE, Pune - 2026)**.
-- 💻 Strong in **PHP, MySQL, JavaScript** and building secure, scalable web apps.
-- 🌱 Currently learning **WordPress (themes & plugins)** and contributing to **open-source projects**.
-
+- 💻 Strong in **PHP, MySQL, JavaScript**, and building secure, scalable web apps.
+- 🌱 Actively learning **WordPress (themes & plugins)** and contributing to open-source projects.
+- 🏆 **Goal:** To grow as a developer who creates scalable and impactful digital solutions while contributing to the open-source ecosystem and continuously upgrading my technical expertise.
 
 ---
 
