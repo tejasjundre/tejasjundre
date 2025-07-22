@@ -27,9 +27,6 @@
 
 ---
 
-<!-- Gradient Divider -->
-![Divider](https://user-images.githubusercontent.com/74038190/216646379-32a68a9b-975d-4a4a-bb0e-1623a6f06a38.gif)
-
 ## 🌟 Highlighted Projects
 - **[Orphanage Donation Platform](https://github.com/tejasjundre/orphanage-donation-platform)** – Secure role-based donation system (PHP + MySQL + MVC).
 - **[Multi-Store Inventory](https://github.com/tejasjundre/multistore-main)** – Enterprise inventory & reporting (CodeIgniter + MySQL).
@@ -37,7 +34,7 @@
 
 ---
 
-## 🧩 Project Showcase (Futuristic Cards)
+## 🧩 Project Showcase
 <table align="center">
   <tr>
     <td align="center" width="33%">
@@ -72,8 +69,12 @@
 
 ---
 
-<!-- Gradient Divider -->
-![Divider](https://user-images.githubusercontent.com/74038190/216646379-32a68a9b-975d-4a4a-bb0e-1623a6f06a38.gif)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tejasjundre&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -93,13 +94,29 @@
 
 ---
 
-<!-- Gradient Divider -->
-![Divider](https://user-images.githubusercontent.com/74038190/216646379-32a68a9b-975d-4a4a-bb0e-1623a6f06a38.gif)
-
-## 🚀 Languages & Tools (Icon Grid)
+## 🚀 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,html,css,react,nodejs,mysql,mongodb,wordpress,cpp,java,python,git,github,bootstrap,figma,vscode&perline=9" alt="Tech Icons" />
 </p>
+
+---
+
+## 💡 Dev Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/tejasjundre/tejasjundre/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
