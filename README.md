@@ -21,7 +21,7 @@
 
 ## 🌟 Highlighted Projects
 - **[Orphanage Donation Platform](https://github.com/tejasjundre/orphanage-donation-platform)** – Secure role-based donation system (PHP + MySQL + MVC).
-- **[Multi-Store Inventory](https://github.com/tejasjundre/multistore-main)** – Enterprise inventory & reporting (CodeIgniter + MySQL).
+- **[Multi-Store Inventory](https://github.com/tejasjundre/multistore_main)** – Enterprise inventory & reporting (CodeIgniter + MySQL).
 - **[Simple WordPress Donation Plugin](https://github.com/tejasjundre/wp-simple-donation)** – CPT + shortcode donation form; WP coding standards.
 
 ---
