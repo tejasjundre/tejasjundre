@@ -1,128 +1,175 @@
-# 👋 Hi, I'm **Tejas Jundre**
+# 👋 Hello, I'm Tejas Subhash Jundre
 
-<!-- Futuristic Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5D3FD3,100:0E6BA8&height=200&section=header&text=Tejas%20Jundre&fontSize=45&animation=fadeIn&fontColor=ffffff&fontAlignY=40)
+🎓 Final-Year B.E. IT Student (2026)  
+💻 Full Stack Developer | AI Explorer | Retail Tech Builder  
+📍 Pune, India  
+
+---
+
+# 🚀 Professional Summary
+
+I am a Full Stack Developer who builds **real-world, impact-driven software**.
+
+Unlike purely academic projects, I focus on solving **actual business problems**, especially for small and medium businesses in India.
+
+My strongest work includes:
+
+✅ Offline-first POS systems  
+✅ AI-powered applications  
+✅ Secure backend systems  
+✅ Business-focused software solutions  
+
+I believe technology should simplify life and empower local businesses.
+
+---
+
+# 🌟 Flagship Project
+
+## 🛒 Chandan Kirana POS System
+
+A real grocery store POS system built for my family business.
+
+### 🔥 Why This Project Matters
+This is not a demo project.  
+It is designed for daily real-shop usage.
+
+### ✨ Features
+• Smart billing (Cash / Udhari)  
+• Udhari (Khata) ledger tracking  
+• Thermal-style bill printing  
+• Bill history & analytics  
+• Offline-first architecture  
+• Marathi-friendly UI for local usability  
+• LocalStorage/IndexedDB backup  
+• Customer & item management  
+
+### 🧩 Tech Stack
+React • Node.js • Express • PostgreSQL • REST APIs
+
+👉 This project demonstrates real-world problem solving, system design, and usability thinking.
+
+---
+
+# 🤖 AI & Advanced Projects
+
+## 🛡 RAKSHAK — AI Women Safety App
+AI-based emergency response app:
+
+• Voice SOS activation  
+• Eye-blink detection alerts  
+• Live GPS tracking  
+• Offline SMS fallback  
+• Firebase backend  
+• ML Kit integration  
+
+---
+
+## 📰 TruthGuard — Fake News & Deepfake Detection
+AI-driven verification system:
+
+• Transformer-based ML models  
+• Deepfake detection  
+• FastAPI backend  
+• Automated testing pipeline  
+
+---
+
+# 💼 Other Notable Projects
+
+### 🏬 Multi-Store Inventory System
+Enterprise-style system with:
+
+• Role-based permissions  
+• Real-time stock updates  
+• Finance tracking  
+• Security against CSRF/XSS  
+• CodeIgniter + MySQL
+
+---
+
+### ❤️ Orphanage Donation Platform
+Secure role-based donation system:
+
+• MVC architecture  
+• Authentication system  
+• Donation tracking  
+• PHP + MySQL
+
+---
+
+# 🧠 Core Skills
+
+## 💻 Programming
+JavaScript • Python • Java • C++
+
+---
+
+## 🌐 Frontend
+React.js  
+HTML5  
+CSS3  
+Tailwind CSS  
+Responsive UI Design
+
+---
+
+## ⚙ Backend
+Node.js  
+Express.js  
+REST APIs  
+Authentication (JWT)  
+API Design
+
+---
+
+## 🗄 Databases
+MongoDB  
+MySQL  
+PostgreSQL
+
+---
+
+## ☁ Cloud & Tools
+AWS (Basics)  
+Firebase  
+Git & GitHub  
+Postman  
+Figma  
+VS Code
+
+---
+
+# 🎯 Career Objective
+
+To become a strong Full Stack Engineer working on scalable systems and real-world products at top technology companies.
+
+I am especially interested in:
+
+• Product-based companies  
+• AI-integrated applications  
+• Scalable backend systems  
+• Startup environments solving real problems
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/tejasjundre">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00F5FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+|+PHP+•+JS+•+MySQL+•+WordPress;Open+Source+Contributor;Futuristic+Tech+Learner" alt="Typing intro" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=tejasjundre&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasjundre&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Final-year **B.E. IT** student (DY Patil COE, Pune - 2026).  
-- 💻 Build secure, scalable web apps in **PHP, MySQL, JavaScript**.  
-- 🌱 Learning **WordPress development** (plugins, themes, hooks, REST API, Gutenberg).  
-- 🏆 Goal: Build impactful, open, community-driven software.
+# 🤝 Let's Connect
+
+📧 Email: jundretejas302inc@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/tejas-jundre  
+💻 GitHub: https://github.com/tejasjundre  
 
 ---
 
-## 🌟 Highlighted Projects
-- **[Orphanage Donation Platform](https://github.com/tejasjundre/Orphanage-donation-system.git)** – Secure role-based donation system (PHP + MySQL + MVC).
-- **[Multi-Store Inventory](https://github.com/tejasjundre/multistore-main.git)** – Enterprise inventory & reporting (CodeIgniter + MySQL).
-- **[Simple WordPress Donation Plugin](https://github.com/tejasjundre/wp-simple-donation.git)** – CPT + shortcode donation form; WP coding standards.
-
----
-
-## 🧩 Project Showcase
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>Handout to Needy</h3>
-      <p>Role-based donation platform with secure auth & MVC.</p>
-      <img src="https://skillicons.dev/icons?i=php,mysql,js,bootstrap" height="32" />
-      <br><br>
-      <a href="https://github.com/tejasjundre/orphanage-donation-platform">
-        <img src="https://img.shields.io/badge/View%20Repo-0E6BA8?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>Multi-Store Inventory</h3>
-      <p>Enterprise inventory, roles, finance, CSRF/XSS security.</p>
-      <img src="https://skillicons.dev/icons?i=php,mysql,codeigniter,js" height="32" />
-      <br><br>
-      <a href="https://github.com/tejasjundre/multistore-main">
-        <img src="https://img.shields.io/badge/View%20Repo-5D3FD3?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>WP Donation Plugin</h3>
-      <p>Custom Post Type + [donation_form] shortcode; Gutenberg-ready.</p>
-      <img src="https://skillicons.dev/icons?i=wordpress,php,mysql" height="32" />
-      <br><br>
-      <a href="https://github.com/tejasjundre/wp-simple-donation">
-        <img src="https://img.shields.io/badge/View%20Repo-9333EA?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tejasjundre&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasjundre&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasjundre&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## ⚙️ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasjundre&bg_color=0d1117&color=5D3FD3&line=0E6BA8&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
-</p>
-
----
-
-## 🚀 Languages & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,html,css,react,nodejs,mysql,mongodb,wordpress,cpp,java,python,git,github,bootstrap,figma,vscode&perline=9" alt="Tech Icons" />
-</p>
-
----
-
-## 💡 Dev Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/tejasjundre/tejasjundre/blob/output/github-contribution-grid-snake.svg)
-
---
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://github.com/tejasjundre" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tejas-jundre" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jundretejas302inc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejasjundre&style=flat-square&color=5D3FD3" alt="Profile views" />
-</p>
-
----
-
-<!-- Futuristic Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5D3FD3,100:0E6BA8&height=120&section=footer)
+⭐ If you find my projects interesting, consider starring them!
